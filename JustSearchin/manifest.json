@@ -1,0 +1,11 @@
+{
+  "name": "JustSearchin'",
+  "description": "When someone asks you what you're doing and you say, just searchin'. Adds a 'just searchin..' right click on selection button that opens the selection in an incognito window.",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["justsearchin.js"]
+  },
+  "manifest_version": 1
+}
